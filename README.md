@@ -10,4 +10,4 @@
 
  * Scalability and smooth interaction with other LLMs, embeddings, and vector stores were guaranteed by the modular layers for ingestion, retrieval, and conversation management that were designed.
 
- ![Chatbot](images/Chatbot_App.png)
+ ![Chatbot](Chatbot_App.png)
