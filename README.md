@@ -9,3 +9,5 @@
  * created a two-step RAG workflow in which a contextual QA chain produces succinct, factual responses to user queries that are reformulated by a history-aware retriever.
 
  * Scalability and smooth interaction with other LLMs, embeddings, and vector stores were guaranteed by the modular layers for ingestion, retrieval, and conversation management that were designed.
+
+ ![Chatbot](images/Chatbot_App.png)
