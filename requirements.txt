@@ -9,3 +9,4 @@ langchain-ollama
 langchain-text-splitters
 chromadb
 pypdf
+sentence-transformers
